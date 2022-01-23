@@ -1,0 +1,21 @@
+[name],[left_top],[image_width],[image_height]
+swiss_flag,(390,490),27,27
+link,(302,458),18,24
+radiohead,(223,418),49,37
+european_flag,(375,809),62,55  
+german_flag, (185,807),191,57
+french_flag, (375,647),62,162
+van_gogh,(307,898),89,92
+dutch_flag,(442,0),381,51
+star_wars,(449,151),163,128
+tom_searle,(161,977),131,21
+praise_sun,(698,940),49,52
+new_zealand,(733,205),55,34
+rocinante,(642,166),18,46
+canada_flag,(284,236),69,43
+greek_turkish_flag,(381,159),63,22
+squidward,(918,551),19,27
+euler,(189,66),24,25
+berserk,(747,930),32,63
+poland_flag,(1,133),77,36
+linux,(837,414),51,71
